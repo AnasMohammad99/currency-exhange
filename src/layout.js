@@ -15,7 +15,7 @@ export default function Layout({handleOpen}) {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <ToolbarWrapper>
-        <Typography variant="h4" style={{ textAlign:"center" }} color='white'>Team page</Typography>
+        <Typography variant="h4" style={{ textAlign:"center" }} color='white'>Currency exhanges</Typography>
         </ToolbarWrapper>
       </AppBar>
     </Box>
