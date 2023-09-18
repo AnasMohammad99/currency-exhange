@@ -4,7 +4,7 @@ import axios from 'axios';
 import { AppBar, Box } from '@mui/material';
 import ExgangeFrom from './components/exgange-from';
 function App() {
-  const [data, setData] = useState({USD:1, EGP:30.85, EUR:.94});
+  const [data, setData] = useState({USD:1, EGP:30.85, EUR:.94, INR:83.28});
   const [error, setError] = useState('');
   // useEffect(() => {
   //   axios
